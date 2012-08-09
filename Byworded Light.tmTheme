@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F2F2F2</string>
+				<string>#FCFCFC</string>
 				<key>caret</key>
 				<string>#3C3C3C</string>
 				<key>foreground</key>
@@ -18,7 +18,7 @@
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#303131</string>
+				<string>#f2f9f9</string>
 				<key>selection</key>
 				<string>#B5D5FF</string>
 			</dict>
@@ -44,7 +44,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#3C3C3C</string>
+				<string>#3c3c3c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -69,6 +69,17 @@
                 <string>bold</string>
             </dict>
         </dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Code Text</string>
+			<key>scope</key>
+			<string>markup.raw.inline.markdown, markup.raw.block.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#397bb3</string>
+			</dict>
+		</dict>
         <dict>
             <key>name</key>
             <string>Markdown Link Grammar</string>
@@ -88,7 +99,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#B9B9B9</string>
+                <string>#8cb06f</string>
             </dict>
         </dict>
         <dict>
@@ -99,7 +110,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#3C3C3C</string>
+                <string>#8cb06f</string>
             </dict>
         </dict>
         <dict>
@@ -110,7 +121,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#B9B9B9</string>
+                <string>#8cb06f</string>
                 <key>fontStyle</key>
                 <string></string>
             </dict>
